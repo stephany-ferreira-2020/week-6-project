@@ -24,6 +24,12 @@ ul {
 #city-name {
   margin: 0;
 }
+#github-repository {
+  text-decoration: none;
+  color: gray;
+  display: block;
+  text-align: right;
+}
 .searchButton {
   padding: 5px 10px;
 }
